@@ -1,0 +1,10 @@
+{
+  "name": "Remix Remix Remix HarvestHub",
+  "description": "Smart Inventory Detection + Fastest Delivery + Freshness",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
